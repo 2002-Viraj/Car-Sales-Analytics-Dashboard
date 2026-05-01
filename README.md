@@ -1,5 +1,9 @@
 # 🚗 AutoVision: Car Sales Analytics Dashboard
 
+<img width="1983" height="793" alt="ChatGPT Image May 1, 2026, 10_52_14 PM" src="https://github.com/user-attachments/assets/290ba1fc-3da1-44d3-90f4-e447ba55f327" />
+
+---
+
 <img width="1263" height="711" alt="image" src="https://github.com/user-attachments/assets/7e5eaccf-4443-4e5e-9fb4-19293d14d772" />
 
 ## 📊 Project Overview
@@ -111,7 +115,8 @@ The dashboard is designed with a **modern dark UI**, inspired by real-world busi
 ## 📸 Dashboard Preview
 
 ### Overview Page
-<img width="1316" height="751" alt="image" src="https://github.com/user-attachments/assets/5bf9f40f-0128-4f74-8b81-9641b6c5b541" />
+<img width="1304" height="755" alt="image" src="https://github.com/user-attachments/assets/018b1964-3ab8-4823-a9ad-392529edccad" />
+
 
 
 ### Model Analysis
